@@ -1,0 +1,22 @@
+{
+  "CoFounders": [
+    {
+      "id": 1,
+      "first_name": "Gaelle",
+      "last_name": "Curry",
+      "email": "gaelle@curry.com"
+    },
+    {
+      "id": 2,
+      "first_name": "frederic",
+      "last_name": "Curry",
+      "email": "frederic@curry.com"
+    },
+    {
+      "id": 3,
+      "first_name": "Bryant",
+      "last_name": "Kobe",
+      "email": "bryant@kobe.com"
+    }
+  ]
+}
